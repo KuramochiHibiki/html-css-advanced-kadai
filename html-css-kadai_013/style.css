@@ -92,7 +92,6 @@ SP用のスタイル
     width: 100%;
     display: none;
     z-index: 1000; /* 高い値に設定 */
-    padding: 20px; /* 画面端に近づけない */
   }
 
   #close {
@@ -135,4 +134,3 @@ SP用のスタイル
     padding-right: 30px;
   }
 }
-
